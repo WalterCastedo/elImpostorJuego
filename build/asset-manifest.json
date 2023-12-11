@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ElImpostor/build/static/css/main.e503f24e.css",
+    "main.js": "/ElImpostor/build/static/js/main.09ba42e4.js",
+    "static/js/787.e22fb591.chunk.js": "/ElImpostor/build/static/js/787.e22fb591.chunk.js",
+    "index.html": "/ElImpostor/build/index.html",
+    "main.e503f24e.css.map": "/ElImpostor/build/static/css/main.e503f24e.css.map",
+    "main.09ba42e4.js.map": "/ElImpostor/build/static/js/main.09ba42e4.js.map",
+    "787.e22fb591.chunk.js.map": "/ElImpostor/build/static/js/787.e22fb591.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e503f24e.css",
+    "static/js/main.09ba42e4.js"
+  ]
+}
